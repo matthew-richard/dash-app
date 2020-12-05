@@ -1,8 +1,11 @@
 Dash
 ====
 
-The idea
---------
+An Android app allowing geocaching of actual money using the Venmo and Google Maps APIs. E.g. setting up races to specific locations that automatically trigger Venmo transactions.
+
+Implemented during JHU Hophacks Spring 2015 on team of 4. Won 3rd prize.
+
+Alas, the app can't be published due to it violating the Venmo terms of service.
 
 #TODO
 1. ~~Make the button drop a pin~~
